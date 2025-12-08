@@ -1,0 +1,25 @@
+{
+  "name": "lession6",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "author": "manzygit",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "sass": "^1.94.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.7"
+  }
+}
