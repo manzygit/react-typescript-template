@@ -8,6 +8,7 @@ export default function App() {
         <div className="app">
             <h1>Hello World!</h1>
             <div className="count">
+                <i className="fa fa-dollar"></i>
                 <span className="label">Balance: </span>
                 <span>${count}</span>
             </div>
